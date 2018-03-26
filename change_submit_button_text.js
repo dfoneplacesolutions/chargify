@@ -1,4 +1,4 @@
 $(function() {
  var submitBtn = $("#subscription_submit");
- submitBtn.html('Button Text');
+ submitBtn.html('Button Text 2');
 });
