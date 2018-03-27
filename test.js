@@ -1,6 +1,6 @@
 $(function() {
  var submitBtn = $("#subscription_submit");
- submitBtn.html('Button Text 2');
+ submitBtn.html('Another button name');
 });
 
 //This assigns classes to each component
