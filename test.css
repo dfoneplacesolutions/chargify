@@ -3,7 +3,10 @@
  }
  
  #summary {
-    background-color: lightblue;
+    background-color: DodgerBlue;
  }
 
+ #subscription_submit {
+    background-color: DodgerBlue;
+ }
  
