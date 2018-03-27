@@ -10,13 +10,38 @@
     color: #f58220;
 }
 
-.btn-primary,.form__button--primary, .btn-primary:focus,.form__button--primary:focus,.btn-primary.focus,
-.focus.form__button--primary, .btn-primary:active,.form__button--primary:active,.btn-primary.active,
-.active.form__button--primary,.open>.btn-primary.dropdown-toggle,.open>.dropdown-toggle.form__button--primary,
-.btn-primary:active:focus,.form__button--primary:active:focus,.btn-primary:active.focus,.form__button--primary:active.focus,.btn-primary.active:hover,.active.form__button--primary:hover,.btn-primary.active:focus,.active.form__button--primary:focus,.btn-primary.active.focus,.active.focus.form__button--primary,.open>.btn-primary.dropdown-toggle:hover,.open>.dropdown-toggle.form__button--primary:hover,.open>.btn-primary.dropdown-toggle:focus,.open>.dropdown-toggle.form__button--primary:focus,.open>.btn-primary.dropdown-toggle.focus,.open>.dropdown-toggle.focus.form__button--primary
-{
+.btn-primary,.form__button--primary {
+    color: #fff;
+    background-color: #f58220;;
+    border-color: #f58220;
+}
+
+.btn-primary:focus,.form__button--primary:focus,.btn-primary.focus,.focus.form__button--primary {
+    color: #fff;
     background-color: #f58220;
     border-color: #f58220;
+}
+
+.btn-primary:active,.form__button--primary:active,.btn-primary.active,.active.form__button--primary,.open>.btn-primary.dropdown-toggle,.open>.dropdown-toggle.form__button--primary {
+    color: #fff;
+    background-color: #f58220;
+    border-color: #f58220;
+}
+
+.btn-primary:active:focus,.form__button--primary:active:focus,.btn-primary:active.focus,.form__button--primary:active.focus,.btn-primary.active:hover,.active.form__button--primary:hover,.btn-primary.active:focus,.active.form__button--primary:focus,.btn-primary.active.focus,.active.focus.form__button--primary,.open>.btn-primary.dropdown-toggle:hover,.open>.dropdown-toggle.form__button--primary:hover,.open>.btn-primary.dropdown-toggle:focus,.open>.dropdown-toggle.form__button--primary:focus,.open>.btn-primary.dropdown-toggle.focus,.open>.dropdown-toggle.focus.form__button--primary {
+    color: #fff;
+    background-color: #f58220;
+    border-color: #f58220;
+}
+
+
+.btn-primary.disabled,.disabled.form__button--primary,.btn-primary.disabled:hover,.disabled.form__button--primary:hover,.btn-primary.disabled:focus,.disabled.form__button--primary:focus,.btn-primary.disabled.focus,.disabled.focus.form__button--primary,.btn-primary.disabled:active,.disabled.form__button--primary:active,.btn-primary.disabled.active,.disabled.active.form__button--primary,.btn-primary[disabled],[disabled].form__button--primary,.btn-primary[disabled]:hover,[disabled].form__button--primary:hover,.btn-primary[disabled]:focus,[disabled].form__button--primary:focus,.btn-primary[disabled].focus,[disabled].focus.form__button--primary,.btn-primary[disabled]:active,[disabled].form__button--primary:active,.btn-primary[disabled].active,[disabled].active.form__button--primary,fieldset[disabled] .btn-primary,fieldset[disabled] .form__button--primary,fieldset[disabled] .btn-primary:hover,fieldset[disabled] .form__button--primary:hover,fieldset[disabled] .btn-primary:focus,fieldset[disabled] .form__button--primary:focus,fieldset[disabled] .btn-primary.focus,fieldset[disabled] .focus.form__button--primary,fieldset[disabled] .btn-primary:active,fieldset[disabled] .form__button--primary:active,fieldset[disabled] .btn-primary.active,fieldset[disabled] .active.form__button--primary {
+    background-color: #f58220;;
+    border-color: #f58220;
+}
+
+.btn-primary .badge,.form__button--primary .badge {
+    color: #f58220;
 }
 
 .btn-primary:hover,.form__button--primary:hover, .btn-primary:active:hover,.form__button--primary:active:hover {
