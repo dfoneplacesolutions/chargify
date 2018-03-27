@@ -5,3 +5,12 @@
 .content__heading h2,.content__heading--mobile h2{
     color: white;
 }
+
+.plan__summary-total {
+    color: #f58220;
+}
+
+.btn-primary,.form__button--primary {
+    background-color: #f58220;
+    border-color: #f58220;
+}
