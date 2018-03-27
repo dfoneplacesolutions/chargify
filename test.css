@@ -1,0 +1,7 @@
+.content__heading,.content__heading--mobile {
+    background: #0d5dad;
+}
+
+.content__heading h2,.content__heading--mobile h2{
+    color: white;
+}
