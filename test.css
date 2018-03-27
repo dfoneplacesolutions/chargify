@@ -26,3 +26,7 @@
 h3, body{
     color: #0d5dad;
 }
+
+.content__heading-section--total {
+    color: white;
+}
