@@ -64,3 +64,7 @@ h3, body{
 .content__heading-section--total {
     color: white;
 }
+
+.fa, .fa-angle-up{
+    color:white;
+}
