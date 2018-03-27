@@ -10,7 +10,11 @@
     color: #f58220;
 }
 
-.btn-primary,.form__button--primary {
+.btn-primary,.form__button--primary, .form__button--primary:focus{
     background-color: #f58220;
     border-color: #f58220;
+}
+
+.form__field-custom-field {
+    border: 1px solid #0d5dad;
 }
