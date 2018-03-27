@@ -1,12 +1,7 @@
-.content__main .content__heading h2{
-    color: green;
- }
- 
- #summary {
-    background-color: DodgerBlue;
- }
+.content_heading, .content__heading--mobile {
+    background-color: #005288;
+}
 
- #subscription_submit {
-    background-color: DodgerBlue;
- }
- 
+.content__main .content__heading h2 {
+    color: white;
+}
