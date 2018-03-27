@@ -10,12 +10,16 @@
     color: #f58220;
 }
 
-.btn-primary,.form__button--primary{
+.btn-primary,.form__button--primary, .btn-primary:focus,.form__button--primary:focus,.btn-primary.focus,
+.focus.form__button--primary, .btn-primary:active,.form__button--primary:active,.btn-primary.active,
+.active.form__button--primary,.open>.btn-primary.dropdown-toggle,.open>.dropdown-toggle.form__button--primary,
+.btn-primary:active:focus,.form__button--primary:active:focus,.btn-primary:active.focus,.form__button--primary:active.focus,.btn-primary.active:hover,.active.form__button--primary:hover,.btn-primary.active:focus,.active.form__button--primary:focus,.btn-primary.active.focus,.active.focus.form__button--primary,.open>.btn-primary.dropdown-toggle:hover,.open>.dropdown-toggle.form__button--primary:hover,.open>.btn-primary.dropdown-toggle:focus,.open>.dropdown-toggle.form__button--primary:focus,.open>.btn-primary.dropdown-toggle.focus,.open>.dropdown-toggle.focus.form__button--primary
+{
     background-color: #f58220;
     border-color: #f58220;
 }
 
-.btn-primary:hover,.form__button--primary:hover {
+.btn-primary:hover,.form__button--primary:hover, .btn-primary:active:hover,.form__button--primary:active:hover {
     background-color: #d8690a;
     border-color: #d8690a
 }
