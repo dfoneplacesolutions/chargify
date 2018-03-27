@@ -18,3 +18,7 @@
 .form__field-custom-field {
     border: 1px solid #0d5dad;
 }
+
+.form__field--boxed {
+    border: 1px solid #0d5dad;
+}
