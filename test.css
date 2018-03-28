@@ -68,3 +68,12 @@ h3, body{
 .fa, .fa-angle-up{
     color:white;
 }
+
+.error-message{
+    color: red;
+}
+
+.plan__summary-total {
+    border-bottom: 1px solid #ddd;
+    border-top: none;
+}
